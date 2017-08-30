@@ -6,3 +6,4 @@ console.log('main2');
 console.log('dev4');
 console.log('feature1');
 console.log('dev5');
+console.log('dev6');
